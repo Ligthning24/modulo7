@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 047f73741d8a40d4d95dfc5262d65230
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - Bolafuego: {fileID: 3712215768842206568, guid: 2f1882113c5bcd74593ebec32638b63a, type: 3}
+  - salida: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
